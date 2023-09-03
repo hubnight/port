@@ -1,0 +1,45 @@
+nav a{
+font-family: cursive;
+font-weight: 1000;
+
+
+}
+.mm{
+	background: white;
+	display: flex;
+	border-radius: 5px;
+	width: 100%;
+	margin-left: 1vw;
+
+
+}
+.mm input{
+	border: none;
+}
+
+
+
+
+.mm i{
+	font-size: 1.1vw;
+	padding-top: .4vw;
+	padding-left: 1vw;
+}
+
+.card1{
+	display: flex;
+
+}
+.card{
+	margin: 1vw;
+}
+
+
+
+
+
+
+
+
+
+
